@@ -285,7 +285,7 @@ exports.customavatars = {
 	'imissfadeless' : 'imissfadeless.jpg',
 	'rulesormigah' : 'rulesormigah.png',
 	'ladydash' : 'LadyDash.webp',
-	
+	'rulesormigah' : 'rulesormigah.png',
 };
 
 // custom avatars appear in profile by specifiying server url.
