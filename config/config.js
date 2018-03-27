@@ -286,6 +286,7 @@ exports.customavatars = {
 	'rulesormigah' : 'rulesormigah.png',
 	'ladydash' : 'LadyDash.webp',
 	'rulesormigah' : 'RulesOrmigah.gif',
+	'eonanima' : 'eonanima.gif'
 };
 
 // custom avatars appear in profile by specifiying server url.
