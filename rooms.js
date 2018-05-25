@@ -418,6 +418,7 @@ class GlobalRoom extends BasicRoom {
 				title: 'The Moon',
 			}, {
 				title: 'EverFree Forest',
+				roomdesc: 'miau', 
 			}, {
 				title: 'Staff',
 				isPrivate: true,
