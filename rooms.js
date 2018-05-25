@@ -403,11 +403,11 @@ class GlobalRoom extends BasicRoom {
 			if (!Array.isArray(this.chatRoomDataList)) this.chatRoomDataList = [];
 		} catch (e) {} // file doesn't exist [yet]
 
-		if (!this.chatRoomData.length) {
-			this.chatRoomData = [{
+		if (!this.chatRoomDataList.length) {
+			this.chatRoomDataList = [{
 				title: 'Lobby',
 				isOfficial: true,
-				autojoin: true
+				autojoin: true,
 			}, {
 				title: 'Equestria Games',
 				isOfficial: true,
@@ -423,7 +423,7 @@ class GlobalRoom extends BasicRoom {
 				isPrivate: true,
 				isOfficial: true,
 				staffRoom: true,
-				staffAutojoin: true
+				staffAutojoin: true,
 			}];
 		}
 
