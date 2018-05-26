@@ -409,8 +409,21 @@ class GlobalRoom extends BasicRoom {
 				isOfficial: true,
 				autojoin: true,
 			}, {
+				title: 'Equestria Games',
+				isOfficial: true,
+			}, {
+				title: 'English Equestria',
+				isOfficial: true,
+			}, {
+				title: 'The Moon',
+			}, {
+				title: 'Dibujos',
+			}, {
+				title: 'EverFree Forest', 
+			}, {
 				title: 'Staff',
 				isPrivate: true,
+				isOfficial: true,
 				staffRoom: true,
 				staffAutojoin: true,
 			}];
