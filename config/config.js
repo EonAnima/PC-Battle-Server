@@ -6,7 +6,7 @@ exports.serverid = 'equestria';
 // The server token - to access the login database and ladder on pokemonshowdown.com
 //   This token must be registered for accessing the ladder, but you will
 //   still be able to login with an unregistered token.
-exports.servertoken = 'ly7ub94EhDGc';
+exports.servertoken = 'b+ff86NY/db0';
 
 // The server port - the port to run Pokemon Showdown under
 exports.port = 8000;
